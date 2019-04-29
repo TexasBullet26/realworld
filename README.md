@@ -327,6 +327,6 @@ RealWorld wouldn't be possible without the help of the open source community rev
 # License
 All of the codebases are **MIT licensed** unless otherwise specified.
 
-<br />
+<br /> 
 
-[![Brought to you by Thinkster](media/end.png)](https://thinkster.io)
+[![Brought to you by Thinkster](media/end.png)](https://thinkster.io)!
